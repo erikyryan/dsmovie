@@ -17,7 +17,7 @@ Foi dividido em três aulas, com duração média de duas horas, sendo cada aula
 - Bootstrap
 - React
 - Spring Boot
-_ Postgres
+- Postgres
 - TypeScript
 - Heroku
 - Netlify
