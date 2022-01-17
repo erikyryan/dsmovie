@@ -1,14 +1,15 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Spring React Week
+Event with the objective of building an application aimed at evaluating movies and series  
 
 ## Realization
 [DevSuperior - Programming school](https://devsuperior.com.br)
 
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React
 
+Evento com objetivo de construir uma aplicação voltada para a avaliação de filmes e series  
+
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
-
-Evento com objetivo de construir uma aplicação voltada para a avaliação de filmes e series
 
 ![Aplicativo](dsmovie.PNG)
 
