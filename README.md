@@ -23,4 +23,4 @@ Foi dividido em três aulas, com duração média de duas horas, sendo cada aula
 - Netlify
 
 ## Resultados
-Após a conclusão do evento foi possível a cosntrução de uma aplicação desde do backend ao frontend usando diversas tecnologias que acompanham o dia a dia de qualquer desenvolvedor. 
+Após a conclusão do evento se obteve uma aplicação desde do backend ao frontend usando diversas tecnologias que acompanham o dia a dia de qualquer desenvolvedor. 
