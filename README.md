@@ -2,6 +2,8 @@
 
 Evento com objetivo de construir uma aplicação voltada para a avaliação de filmes e series
 
+![Aplicativo](dsmovie.PNG)
+
 ## Sobre o evento
 Foi dividido em três aulas, com duração média de duas horas, sendo cada aula com objetivos definidos para se atingir. Além disso, foi disponibilizado materias de apoio e um guia de estudos para reforçar o conteúdo ministrado
 
